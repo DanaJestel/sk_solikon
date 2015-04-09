@@ -2,6 +2,7 @@ name = SK Solikon
 description = Based on Skeleton Theme
 version = VERSION
 core = 7.x
+base theme = skeletontheme
 
 stylesheets[all][] = css/skeleton.css
 stylesheets[all][1] = css/style.css
